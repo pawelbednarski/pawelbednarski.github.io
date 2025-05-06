@@ -6,10 +6,12 @@ permalink: /about/
 
 **Embedded Linux** | **Secure Embedded Systems** | **Edge & IIoT Gateways** | **Real‑Time Firmware** | **Modern C++ & Rust**
 
-I build the **software stack** that keeps connected machines running far from the cloud-
-from **truck‑mounted chillers** and **fleet telematics hubs** to **medical wearables** and **industrial routers**.
+I’m Paweł, an embedded systems engineer that decided to show his work to the world. I became an engineer to build stuff that interacts with the Real World™ and have a knack for IT and electronics, so embedded systems were the best option.
 
-My toolbox spans **Modern C++**, **Rust**, **Python** on **Linux**; on **FreeRTOS**, and **Zephyr** and **RTIC** prototypes.
+I build the software stack that keeps connected machines running far from the cloud,
+from mobile chillers mounted in trucks and fleet telematics, through automotive gateways to medical wearables and telco devices.
+
+My toolbox spans among others **Modern C++**, **Rust**, **Python** on **Linux**; on **FreeRTOS**, **Zephyr** and **RTIC**.
 Current side project: a **low‑power LoRa mesh** for off‑grid data exchange.
 
 **My Specialization**: I focus on building **resilient connected systems** with expertise in communication patterns, failure recovery, and security by design to help build systems that are reliable and secure even in challenging deployment environments.
