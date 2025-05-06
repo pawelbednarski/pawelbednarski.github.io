@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /blog/about/
+permalink: /about/
 ---
 
 **Embedded Linux** | **Secure Embedded Systems** | **Edge & IIoT Gateways** | **Real‑Time Firmware** | **Modern C++ & Rust**
