@@ -4,22 +4,22 @@ title: About
 permalink: /about/
 ---
 
-**Embedded Linux** | **Secure Embedded Systems** | **Edge & IIoT Gateways** | **Real‑Time Firmware** | **Modern C++ & Rust**
+**Secure Embedded Linux and Real-Time Firmware** | **Edge & IIoT Gateways** | **Rust & Modern C++**
 
-I’m Paweł, an embedded systems engineer that decided to show his work to the world. I became an engineer to build stuff that interacts with the Real World™ and have a knack for IT and electronics, so embedded systems were the best option.
+I'm Paweł, a senior embedded software engineer who leads development of critical system components.
 
-I build the software stack that keeps connected machines running far from the cloud,
-from mobile chillers mounted in trucks and fleet telematics, through automotive gateways to medical wearables and telco devices.
+I've spearheaded implementations for secure embedded systems operating in challenging environments—spanning transportation telematics, automotive gateways, medical devices, and telecommunications infrastructure. Through technical leadership on key projects, I've established development practices that prioritize security, reliability, and long-term system integrity.
 
-My toolbox spans among others **Modern C++**, **Rust**, **Python** on **Linux**; on **FreeRTOS**, **Zephyr** and **RTIC**.
+My toolbox spans among others **Rust**, **Modern C++**, **Python** on **Linux**; on **FreeRTOS**, **Zephyr** and **RTIC**.
 Current side project: a **low‑power LoRa mesh** for off‑grid data exchange.
 
-**My Specialization**: I focus on building **resilient connected systems** with expertise in communication patterns, failure recovery, and security by design to help build systems that are reliable and secure even in challenging deployment environments.
+**Technical Vision**: I specialize in designing **resilient connected systems** with an expertise in secure communication patterns, robust failure recovery, and security by design to help build systems that are reliable and secure even in challenging deployment environments.
 
 ## Core Toolkit
+* **Languages** - Rust • Modern C++ (11–20) • C • Python
 * **OS / Firmware** - Yocto • Buildroot • Ubuntu Core • OpenWRT • Android AOSP • FreeRTOS • Zephyr • RTIC
-* **Languages** - C • Modern C++ (11–20) • Rust • Python
 * **Connectivity** - MQTT • ZeroMQ • gRPC • Redis PubSub • IPv6 • LoRa/LoRaWAN • cellular modem integration
+* **Cloud Integration** - AWS • Azure
 * **IPC & Interfaces** - D‑Bus • Binder • POSIX message queues • shared memory • Netlink • UART • I²C • SPI • GPIO
 * **Security** - Secure Boot • TPM • SELinux • Certificate workflows (CMP, AWS Claim) • Clippy & clang‑tidy static analysis
 * **Debugging & Diagnostics** - gdb/gdbserver • core dump analysis • strace/ltrace • perf profiling • journalctl • syslog analysis • remote diagnostics • cross-compilation toolchains • post-mortem analysis • tcpdump/Wireshark • Valgrind
@@ -51,6 +51,6 @@ Current side project: a **low‑power LoRa mesh** for off‑grid data exchange.
 * **Edge data processing pipelines** - Data aggregation, compression, filtering on device to cut cloud traffic and enable edge-local decisions
 
 ### Let's Work Together
-Available for consulting and collaboration on embedded, IIoT, edge, or autonomous systems. Based in Poland (EU), or fully remote with cyclic visits onsite.
+Available for technical leadership roles, architecture and software consulting, strategic advisory, and collaboration on embedded, IIoT, edge, or autonomous systems.  Based in Poland (EU), with flexibility for remote collaboration with visits on-site.
 
-**Email:** pbed@proton.me | **Github:** [github.com/pawelbednarski](https://github.com/pawelbednarski) | **LinkedIn:** [linkedin.com/in/pawel-bednarski-58892277](https://www.linkedin.com/in/pawel-bednarski-58892277/)
+**Email:** pbed@proton.me | **Github:** [github.com/pawelbednarski](https://github.com/pawelbednarski) | **LinkedIn:** [linkedin.com/in/pawel-bednarski-tech](https://www.linkedin.com/in/pawel-bednarski-tech/)
