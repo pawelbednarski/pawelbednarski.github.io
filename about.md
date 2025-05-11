@@ -51,6 +51,16 @@ Current side project: a **low‑power LoRa mesh** for off‑grid data exchange.
 * **Build failure‑resilient IIoT devices** - Service confinement, watchdog, remote diagnostics, HIL stress tests
 * **Edge data processing pipelines** - Data aggregation, compression, filtering on device to cut cloud traffic and enable edge-local decisions
 
+# Services and Expertise
+I offer specialized consulting and development services for organizations building embedded and edge systems:
+* Specialized Software Development
+* Embedded Systems Architecture Design and Review
+* Edge Computing Integration
+* IoT and Edge Migration Strategy
+* Embedded System Prototyping
+* Embedded System Security Audit, Hardening, and Secure Communications
+* Technical Team Leading and Mentoring
+
 ### Let's Work Together
 Available for technical leadership roles, architecture and software consulting, strategic advisory, and collaboration on embedded, IIoT, edge, or autonomous systems.  Based in Poland (EU), with flexibility for remote collaboration with visits on-site.
 
