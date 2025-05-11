@@ -15,7 +15,7 @@ Current side project: a **low‑power LoRa mesh** for off‑grid data exchange.
 
 **Technical Vision**: I specialize in designing **resilient connected systems** with an expertise in secure communication patterns, robust failure recovery, and security by design to help build systems that are reliable and secure even in challenging deployment environments.
 
-## Selected Project Highlights
+# Selected Project Highlights
 * **Fleet Edge Hub** - Rust‑based asynchronous data pipeline with MQTT cloud sync, resilient modem handling, connection diagnostics.
 * **Mobile Chiller Gateway** - C++ on Ubuntu Core; Snap packaging, cellular connectivity, fleet‑wide orchestration, OTA update.
 * **Automotive AOSP Gateway** - C++/Rust services, Binder IPC, SELinux hardening, third‑party framework integration, power‑management design.
@@ -25,7 +25,7 @@ Current side project: a **low‑power LoRa mesh** for off‑grid data exchange.
 
 *(Further details available on request.)*
 
-## Technical Leadership & Collaboration
+# Technical Leadership & Collaboration
 * **Architecture Design** - Designed system architecture for distributed edge systems, event-driven systems. Designed service responsibilities and features, interfaces, and security.
 * **Technical Leadership** - Led development of critical modules. Written technical requirements and specifications. Established integration workflow.
 * **Cross-Functional Collaboration** - Collaborated with teams of hardware engineers, automation QA, and field testers. Collaborated in cross functional teams.
@@ -33,7 +33,7 @@ Current side project: a **low‑power LoRa mesh** for off‑grid data exchange.
 * **Technical Standards** - Developed logging guidelines used by multiple teams of different domains. Designed and documented communication protocols used between teams.
 * **Technical Interviewing** - Evaluated candidates during technical assessments. Helped improving the process.
 
-## Core Toolkit
+# Core Toolkit
 * **Languages** - Rust • Modern C++ (11–20) • C • Python
 * **OS / Firmware** - Yocto • Buildroot • Ubuntu Core • OpenWRT • Android AOSP • FreeRTOS • Zephyr • RTIC
 * **Connectivity** - MQTT • ZeroMQ • gRPC • Redis PubSub • IPv6 • LoRa/LoRaWAN • cellular modem integration
@@ -44,7 +44,7 @@ Current side project: a **low‑power LoRa mesh** for off‑grid data exchange.
 * **DevOps / Build** - CMake • Conan • Docker / docker‑compose • GitHub Actions • GitLab CI • Jenkins • TeamCity
 * **Testing** - GoogleTest • pytest • hardware‑in‑the‑loop (HIL) benches
 
-## Example Challenges I Can Solve
+# Example Challenges I Can Solve
 * **Deploy a secure edge gateway** - Yocto BSP, TPM‑backed secure‑boot, certificates provisioning, encrypted A/B OTA, fleet rollout tooling
 * **Add hard real‑time capability to existing firmware** - Add real-time patch to kernel, or FreeRTOS or Zephyr/RTIC board bring‑up, latency tuning
 * **Design resilient field communications** - LoRa ↔ MQTT store‑and‑forward bridge, MQTT cloud hand‑off, adaptive bandwidth & cellular fallback
